@@ -9,6 +9,6 @@ void nForest(int n) {
         for (int j = 0; j < n; j++) {
             cout << "* ";
         }
-        cout << "\n";
+        cout << "\n"; //next line
     }
 }
